@@ -2,7 +2,7 @@ from os import path
 from codecs import open
 from setuptools import setup
 
-from bulletlog import VERSION
+from logtrail import VERSION
 
 here = path.abspath(path.dirname(__file__))
 
@@ -11,14 +11,14 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 
 def find_packages(*args, **kwargs):
-    return ['bulletlog']
+    return ['logtrail']
 
 setup(
-      name='bulletlog',
+      name='logtrail',
       version=VERSION,
       description="A fancy logger",
       long_description=long_description,
-      url='https://github.com/eendroroy/bulletlog',
+      url='https://github.com/eendroroy/logtrail',
       author='indrajit',
       author_email='eendroroy@gmail.com',
       license='MIT',

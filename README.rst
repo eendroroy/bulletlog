@@ -1,14 +1,14 @@
-**bulletlog**
+**logtrail**
 ==========
 
-.. image:: https://badge.fury.io/py/bulletlog.svg
-    :target: https://badge.fury.io/py/bulletlog
-.. image:: https://travis-ci.org/eendroroy/bulletlog.svg?branch=master
-    :target: https://travis-ci.org/eendroroy/bulletlog
-.. image:: https://codeclimate.com/github/eendroroy/bulletlog/badges/gpa.svg
-    :target: https://codeclimate.com/github/eendroroy/bulletlog)
-.. image:: https://codecov.io/gh/eendroroy/bulletlog/branch/master/graph/badge.svg
-    :target: https://codecov.io/gh/eendroroy/bulletlog
+.. image:: https://badge.fury.io/py/logtrail.svg
+    :target: https://badge.fury.io/py/logtrail
+.. image:: https://travis-ci.org/eendroroy/logtrail.svg?branch=master
+    :target: https://travis-ci.org/eendroroy/logtrail
+.. image:: https://codeclimate.com/github/eendroroy/logtrail/badges/gpa.svg
+    :target: https://codeclimate.com/github/eendroroy/logtrail)
+.. image:: https://codecov.io/gh/eendroroy/logtrail/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/eendroroy/logtrail
 
 A tool to display bar-chart anywhere.
 
@@ -18,7 +18,7 @@ use pip
 
 ::
 
-.   $ pip install bulletlog
+.   $ pip install logtrail
 
 **usage**
 
