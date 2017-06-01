@@ -6,7 +6,7 @@ TRAIL = uchr(57520)
 
 INFO = \
     COLORS["BG"]['INFO'] + COLORS["FG"]['INFO'] + \
-    " INFO " + \
+    " INFO  " + \
     COLORS['RESET'] + COLORS["TRAIL"]['INFO'] + \
     TRAIL + \
     COLORS['RESET']
@@ -18,7 +18,7 @@ DEBUG = \
     COLORS['RESET']
 WARN = \
     COLORS["BG"]['WARN'] + COLORS["FG"]['WARN'] + \
-    " WARN " + \
+    " WARN  " + \
     COLORS['RESET'] + COLORS["TRAIL"]['WARN'] + \
     TRAIL + \
     COLORS['RESET']
