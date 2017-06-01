@@ -22,6 +22,9 @@ use pip
 
 **usage**
 
+.. image:: https://asciinema.org/a/122942.png
+    :target: https://asciinema.org/a/122942
+
 :: 
 
 .   >>> import logtrail
