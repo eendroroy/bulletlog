@@ -1,0 +1,4 @@
+[run]
+source = ./bulletlog
+omit = ./bulletlog/__init__.py
+       ./venv/*

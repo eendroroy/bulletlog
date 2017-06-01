@@ -1,0 +1,8 @@
+virtualenv
+nose
+coverage
+codecov
+pylint
+radon
+codevalidator
+twine
