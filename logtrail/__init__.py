@@ -1,4 +1,3 @@
-from . import support
-from . import logger
+from logtrail.logger import Logger
 
 VERSION = '0.0.1'
