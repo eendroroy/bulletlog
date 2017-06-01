@@ -1,4 +1,5 @@
 [run]
 source = ./logtrail
 omit = ./logtrail/__init__.py
+       ./logtrail/compatible.py
        ./venv/*
