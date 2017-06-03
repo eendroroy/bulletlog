@@ -36,3 +36,11 @@ use pip
 .   >>> logtrail.Logger.d("calling 'logtrail.logger.d'")
 .   >>> logtrail.Logger.w("calling 'logtrail.logger.w'")
 .   >>> logtrail.Logger.e("calling 'logtrail.logger.e'")
+
+
+**license**
+
+*MIT*
+
+.. image:: https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Feendroroy%2Flogtrail.svg?type=large
+    :target: https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Feendroroy%2Flogtrail?ref=badge_large
